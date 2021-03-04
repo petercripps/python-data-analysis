@@ -7,7 +7,7 @@ Once you have installed Anaconda you need to run the Anaconda Navigator from whe
 
 ![Anaconda Screen](Anaconda.png "Anaconda apps screen")
 
-From here you can launch the Jupyter Notebook by clicking on the `Launch` button for that application. The Jupyter Notebook will open in the browser and look something like this.
+From here you can launch the Jupyter Notebook by clicking on the `Launch` button for that application. The Jupyter Notebook will open in a new browser window.
 
 ![Jupyter Notebook](Jupyter.png "Jupyter Notebook")
 
