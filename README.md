@@ -7,5 +7,6 @@ It includes a crash course in Python itself as well as how to use some of the ma
 - [Python Crash Course Part I](PART-I.md)
 - [Python Crash Course Part II](PART-II.md)
 - [Python Crash Course Part III](PART-III.md)
+- [Using Pandas](Pandas.md)
 
 For a list of resources I have found useful for learning [Python](https://www.python.org) see [Learning Python Resources](RESOURCES.md).
