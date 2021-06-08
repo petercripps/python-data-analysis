@@ -1,7 +1,9 @@
-# Setting Up a Python Environment
+# Setting Up a Python Environment in macOS or Windows
 To learn Python we're going to use a browser based tool called the *Jupyter Notebook*. Jupyter allows you to type Python code and see the output all in the same place. It also has lots of in-built functions to make it easier for you to learn and use Python. In other words, it's the ideal tool for learning Python.
 
 We'll be downloading Jupyter, as well as a number of other useful data science tools and libraries, from a website called [Anaconda](https://www.anaconda.com) which provides an environment (also called Anaconda) for accessing various data science tools. These are the steps to go through to get up and running with Anaconda and the Jupyter Notebook.
+
+Please note that the instructions below only applies if you are going to be using a macOS or Windows computer. If you are using ChromeOS or iOS refer to [these instructions](SETUP-ENV-ALT.md).
 
 ## Step 1: Visit the Anaconda Website
 
