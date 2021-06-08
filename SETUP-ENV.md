@@ -3,7 +3,7 @@ To learn Python we're going to use a browser based tool called the *Jupyter Note
 
 We'll be downloading Jupyter, as well as a number of other useful data science tools and libraries, from a website called [Anaconda](https://www.anaconda.com) which provides an environment (also called Anaconda) for accessing various data science tools. These are the steps to go through to get up and running with Anaconda and the Jupyter Notebook.
 
-Please note that the instructions below only applies if you are going to be using a macOS or Windows computer. If you are using ChromeOS or iOS refer to [these instructions](SETUP-ENV-ALT.md).
+Please note that the instructions below only apply if you are using a macOS or Windows computer. If you are using ChromeOS or iOS refer to [these instructions](SETUP-ENV-ALT.md).
 
 ## Step 1: Visit the Anaconda Website
 
