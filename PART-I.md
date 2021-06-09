@@ -1,10 +1,10 @@
 # Python Crash Course - Part I
-Welcome to part I of the Python crash course. All of the code for this section can be found in this [Jupyter Notebook](Crash-Course-Part-I.ipynb). Open this notebook in Jupyter and try running each of the cells making sure you understand exactly what is going on.
+Welcome to part I of the Python crash course. All of the code for this section can be found in [this Jupyter Notebook](Crash-Course-Part-I.ipynb). Open this notebook in Jupyter and try running each of the cells making sure you understand exactly what is going on.
 
 In this tutorial we cover;
 - Your first program, `Hello, world`
 - Arithmetic
-- Integers, Floats, Booleans and Strings
+- Variables, Integers, Floats, Booleans and Strings
 - Lists
 - Dictionaries 
 - Tuples
