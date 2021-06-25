@@ -12,5 +12,5 @@ It includes a crash course in Python itself as well as how to use some of the ma
 For a list of resources I have found useful for learning [Python](https://www.python.org) see [Learning Python Resources](RESOURCES.md).
 
 These two are particularly good as a source of reference:
-- [Learn Python Programming](https://pythonbasics.org). This site contains reference material and exercises for the Python 3 programming language and many of the major Python libraries ().
+- [Learn Python Programming](https://pythonbasics.org). This site contains reference material and exercises for the Python 3 programming language and many of the major Python libraries (Pandas, NumPy etc).
 - [W3 Schools Python Tutorial](https://www.w3schools.com/python/). Learn by example as well as with exercises and reference material.
